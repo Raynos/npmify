@@ -1,0 +1,17 @@
+Usage:
+
+  npmify project-name description
+
+    Will create a new project by doing the following
+
+      - creates folder by project-name
+      - git init's that folder
+      - scaffolds it out by invoking ngen project-name description
+      - adds a remote
+      - creates github repository
+      - git add .
+      - git commit -m "initial"
+      - git push origin master
+      - npm publish
+      - set up travisify hooks
+      - set up testling hooks
