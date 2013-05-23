@@ -1,6 +1,6 @@
 {
   "name": "npmify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Publish code on NPM REAL FAST",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
@@ -16,8 +16,7 @@
     "url": "https://github.com/Raynos/npmify/issues",
     "email": "raynos2@gmail.com"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "tap": "~0.3.1"
   },
